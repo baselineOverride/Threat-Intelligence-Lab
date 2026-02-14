@@ -71,8 +71,8 @@ Once MISP was running, I focused on understanding the data itself:
 This was one of the most useful parts of the project from a security learning perspective.
 
 <p float="left">
-  <img src="examples/screenshots/MISP_Events.png" width="500" />
-  <img src="examples/screenshots/ThreatAnalytics.png" width="500" /> 
+  <img src="examples/screenshots/MISP_Events.png" width="300" />
+  <img src="examples/screenshots/ThreatAnalytics.png" width="300" /> 
 </p>
 
 ---
@@ -129,6 +129,14 @@ To explore how open-source threat intelligence can be consumed by a SIEM, a proo
 - Optimize data formatting for Sentinel ingestion
 - Improve logging and monitoring visibility
 - Extend the lab with a dedicated honeypot service
+
+---
+
+## Disclaimer
+
+This project was developed as a learning exercise using official documentation and GitHub repositories for MISP, Docker, and Azure services. It is not a production deployment.
+
+All sensitive information (API keys, credentials, IP addresses, and subscription details) has been redacted.
 
 ---
 
