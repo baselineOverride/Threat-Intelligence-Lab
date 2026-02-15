@@ -70,9 +70,10 @@ Once MISP was running, I focused on understanding the data itself:
 
 This was one of the most useful parts of the project from a security learning perspective.
 
-<p float="left">
-  <img src="examples/screenshots/MISP_Events.png" width="300" />
-  <img src="examples/screenshots/ThreatAnalytics.png" width="300" /> 
+<p align="center">
+  <img src="examples/screenshots/MISP_Events.png" width="1000" />
+  <br></br>
+  <img src="examples/screenshots/ThreatAnalytics.png" width="1000" /> 
 </p>
 
 ---
